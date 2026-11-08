@@ -1,0 +1,11 @@
+==================================== ERRORS ====================================
+________________________ ERROR collecting tests/test_tasks.py _________________________
+ImportError while importing test module 'C:\...\tests\test_tasks.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+...
+E   ModuleNotFoundError: No module named 'fastapi'
+=========================== short test summary info ===========================
+ERROR tests/test_tasks.py
+!!!!!!!!!!!!!!!!!!! Interrupted: 1 error during collection !!!!!!!!!!!!!!!!!!!!
+1 error in 0.12s
